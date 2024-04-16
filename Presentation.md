@@ -12,7 +12,7 @@ B1-Alexandre Freret
 
 ## Liens vers le site web du projet
 
-[docker-sae203](https://github.com/Matematis/docker-sae203/edit/main/Presentation.md)
+[docker-sae203](https://github.com/Matematis/docker-sae203/main/Presentation.md)
 
 ## Liens vers le dépôt github du projet
 
